@@ -22,4 +22,9 @@ The Brain Development Lab, part of the [Psychology Department](http://psych.la.p
 - Ricky Groner, Graduate Student, Penn State
 - Ken Hwang, Programmer, College of the Liberal Arts
 - Matthew Lee, MBA Student, Penn State
-- Patricia Jones, Optometry student, Pennsylvania College of Optometry
+- Patricia Jones, Optometry Student, Pennsylvania College of Optometry
+
+## Lab Journal Club
+Twice a month at Lab Meetings we will discuss a paper related to research in the lab or of interest to the student who is presenting the paper.  
+
+- January 29, 2015: Irimia, A., Goh, S.-Y. M., Torgerson, C. M., Stein, N. R., Chambers, M. C., Vespa, P. M., & Van Horn, J. D. (2013). [Electroencephalographic inverse localization of brain activity in acute traumatic brain injury as a guide to surgery, monitoring and treatment. Clinical Neurology and Neurosurgery] (http://dx.doi.org/10.1016/j.clineuro.2013.08.003), 115(10).
